@@ -1,0 +1,632 @@
+*{
+    box-sizing: border-box;
+}
+.xeyal .container2{
+    display: flex;
+    justify-content: space-between;
+    width: 30%;
+}
+.img1{
+    width: 112px;
+    height: 66px;
+    margin: 21px 1207px 0 121px;
+}
+.ortaesas{
+    background: #1E4681;
+    
+    height: 200px;
+    display: flex;
+    align-items: center;
+    margin: 0 546.98px 0  409.39px;
+}
+
+.sag_yazi{
+    text-align: center;
+    color: white;
+}
+
+.andrey{
+    text-align: right;
+}
+
+.container2{
+    
+    height: 32px;
+    margin: 97px 0 0 121px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 115%;
+}
+
+ .container3{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 29px 137.85px 0 122px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 115%;
+}
+  @media (max-width: 1200px){
+    .container2 .container3{
+      max-width: 970px;
+    }
+  }
+    @media (max-width: 992px){
+      .container2 .container3{
+        max-width: 834px;
+      }
+    }
+      @media (max-width: 845px){
+        .container2 .container3{
+          max-width: 375px;
+        }
+      }
+.sekil{
+    margin: 2.7px 243.85px 85.79px 390.85px;
+    
+}
+
+
+.xeyal .container4_1{
+    display: flex;
+    justify-content: space-between;
+    color: #1E4681;
+    margin: 129px 122px 249px 121px;;
+}
+
+.zanyatiya{
+    font-weight: 700;
+    font-size: 35px;
+    margin: 178px 652px 0 121px;
+}
+
+.xeyal .container4_1 h1{
+    position: relative;
+    font-weight: 700;
+    font-size: 55px;
+    bottom: 18px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 130%;
+    color: #1E4681;
+}
+
+.wrapper {
+  margin: 91px 150px 173px 124px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.maintext {
+  display: flex;
+  gap: 190px;
+  margin-bottom: 94px;
+}
+h1 {
+  position: relative;
+  font-weight: 700;
+  font-size: 55px;
+  bottom: 18px;
+}
+.text {
+  width: 662px;
+  height: 374px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 150%;
+}
+.myPhoto {
+  display: flex;
+  align-items: center;
+}
+
+.photo {
+  position: relative;
+  width: 314px;
+  height: 315px;
+  z-index: 1;
+}
+
+.ellipse {
+  position: absolute;
+  right: 120px;
+  top: 470px;
+}
+
+.footers {
+  display: flex;
+  justify-content: flex-start;
+  gap: 132px;
+}
+.siting {
+  position: relative;
+}
+
+.sitingel {
+  position: absolute;
+  left: 157px;
+  bottom: 22%;
+  z-index: -1;
+}
+
+.flittle {
+  width: 150px;
+}
+.flittle2{
+    width: 150px;
+}
+.secondp {
+  font-size: 18px;
+}
+.firstp {
+  font-size: 25px;
+  font-weight: 700;
+}
+.fimg {
+  margin: 0;
+  padding: 0;
+}
+.ftext {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+ 
+  flex-wrap: wrap;
+  gap: 95px;
+  margin: 0;
+  padding: 0;
+}
+
+@media (min-width: 376px) and (max-width: 834px) {
+  .wrapper {
+    margin: 56px 86.69px 180.05px 72px;
+  }
+  .maintext {
+    display: flex;
+    gap: 110.04px;
+  }
+
+  h1 {
+    position: relative;
+    font-weight: 700;
+    font-size: 32px;
+    bottom: 10.42px;
+  }
+
+  .text {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    margin-bottom: 10px;
+    width: 383.41px;
+    height: 216.61px;
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 150%;
+    
+  }
+
+  .myPhoto {
+    display: flex;
+    align-items: center;
+  }
+
+  .photo {
+    position: relative;
+    width: 181.86px;
+    height: 182.44px;
+    z-index: 1;
+  }
+
+  .ellipse {
+    position: absolute;
+    width: 211.98px;
+    height: 34.17px;
+    top: 282px;
+    right: 71.63px;
+  }
+
+  .footers {
+    display: flex;
+    margin-top: 70.01px;
+    justify-content: flex-start;
+    gap: 55.02px;
+  }
+
+  .flittle {
+    width: 86.88px;
+  }
+  .flittle2 {
+    width: 108px;
+  }
+  .secondp {
+    font-size: 11px;
+  }
+  .firstp {
+    font-size: 15px;
+    font-weight: 700;
+  }
+  .fimg {
+    display: none;
+    margin: 0;
+    padding: 0;
+  }
+  .ftext {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 55.02px;
+    margin: 0;
+    padding: 0;
+  }
+}
+
+@media (max-width: 375px) {
+   
+    
+  .wrapper {
+    margin: 56px 30.53px 124px 36px;
+  }
+  .maintext {
+    display: flex;
+    flex-direction: column;
+    gap: 56px;
+    margin-right: 20%;
+  }
+
+  h1 {
+    position: relative;
+    font-weight: 700;
+    font-size: 26px;
+    bottom: 8.39px;
+  }
+
+  .text {
+    width: 308.47px;
+    height: 174.27px;
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+  }
+
+  .myPhoto {
+    display: flex;
+    align-items: center;
+  }
+
+  .photo {
+    position: relative;
+    width: 146.32px;
+    height: 146.78px;
+    top: 20px;
+    z-index: 1;
+  }
+
+  .ellipse {
+    position: absolute;
+    width: 170.55px;
+    height: 27.49px;
+    left: 5px;
+    top: 475px;
+    right: 50px;
+  }
+  
+  .footers {
+        display: flex;
+        margin-top: 59.22px;
+        justify-content: flex-start;
+        align-content: flex-start;
+      }
+      .ftext {
+        display: flex;
+        justify-content: flex-start;
+        flex-direction:row;
+        align-content: flex-start;
+        flex-wrap: wrap;
+        gap: 36.61px;
+        margin-top: 59.22px;
+        margin: 0;
+        padding: 0;
+      }
+  .flittle {
+    width: 86px;
+    margin: 0;
+  }
+  .flittle2 {
+    width: 86.89px;
+    margin: 0;
+  }
+  .secondp {
+    font-size: 10px;
+  }
+  .firstp {
+    font-size: 12px;
+    font-weight: 700;
+  }
+  .fimg {
+    display: none;
+    margin: 0;
+    padding: 0;
+  }
+ 
+}
+.container4_1{
+  display: flex;
+  justify-content:center;
+  gap: 132px;
+  margin: 0px 0px 121px 0;
+}
+h5{
+  color: #1E4681;
+}
+h5 p{
+  margin: 0px 0px 0px 121px;
+}
+
+.kamil {
+  font-family: "Roboto", sans-serif;
+  margin-left: 36px;
+  margin-right: 36px;
+}
+
+.kamil h2 {
+  font-family: "Roboto Slab", sans-serif;
+  font-size: 26px;
+  line-height: 26.36px;
+  margin-top: 60px;
+  margin-bottom: 50px;
+}
+
+.kamil .margin-bottom-30px {
+  margin-bottom: 30px;
+}
+
+.kamil li {
+  margin-left: -18px;
+}
+
+.kamil .what-we-learn-content {
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 150%;
+}
+
+.kamil .flex-center {
+  display: flex;
+  justify-content: center;
+}
+
+.kamil .grid-container {
+  display: grid;
+  grid-template-columns: repeat(1, 185.92px);
+  grid-template-rows: repeat(9, 152.84px);
+  row-gap: 24.16px;
+  margin-bottom: 80px;
+}
+
+.kamil .grid-item {
+  box-shadow: 1px 1px 15px 0 rgba(0, 0, 0, 0.25);
+  border: 0.1px;
+  border-radius: 15px;
+}
+
+.kamil .prog-name {
+  font-size: 14px;
+  font-weight: 700;
+  margin-bottom: 0;
+}
+
+.kamil .date-and-moderator {
+  font-size: 12px;
+  font-weight: 400;
+  margin-top: 0px;
+}
+
+.kamil .prog-name,
+.kamil .date-and-moderator {
+  position: relative;
+  bottom: 10px;
+  left: 10px;
+}
+
+.kamil .feedbacks-area {
+  background-color: #efefef;
+  margin: -130px;
+  padding-left: 130px;
+  padding-right: 130px;
+  height: 420px;
+}
+
+.kamil .feedback-title {
+  position: relative;
+  top: 50px;
+}
+
+.kamil .feedback-box {
+  width: 308px;
+  background-color: white;
+  box-shadow: 1px 1px 15px 0 rgba(0, 0, 0, 0.25);
+  border: 0.1px;
+  border-radius: 20px;
+  position: relative;
+  top: 30px;
+  padding: 25px;
+  padding-top: 15px;
+  font-size: 10px;
+}
+
+.kamil .feedback-person {
+  display: flex;
+}
+
+.kamil .feedback-person-image img {
+  width: 80px;
+  height: 84px;
+}
+
+.kamil .feedback-person-name {
+  margin-left: 15px;
+  font-family: "Roboto Slab", sans-serif;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.kamil .feedback-person-name img {
+  width: 14.91px;
+  height: 17.2px;
+}
+
+@media screen and (min-width: 320px) and (max-width: 991px) {
+}
+
+@media screen and (min-width: 992px) and (max-width: 1279px) {
+  .kamil {
+    margin-left: 70.08px;
+    margin-right: 70.08px;
+  }
+
+  .kamil h2 {
+    font-size: 32px;
+    line-height: 32.44px;
+    margin-top: 130px;
+    margin-bottom: 70px;
+  }
+
+  .kamil .what-we-learn-content {
+    font-size: 14px;
+  }
+
+  .kamil .grid-container {
+    grid-template-columns: repeat(3, 231.09px);
+    grid-template-rows: repeat(3, 189.97px);
+    column-gap: 21.42px;
+    row-gap: 23.44px;
+  }
+
+  .kamil .grid-item {
+    border-radius: 20px;
+  }
+
+  .kamil img {
+    width: 231.09px;
+  }
+
+  .kamil .prog-name {
+    font-size: 17px;
+  }
+
+  .kamil .date-and-moderator {
+    font-size: 14px;
+  }
+
+  .kamil .prog-name,
+  .kamil .date-and-moderator {
+    position: relative;
+    bottom: 12px;
+    left: 12px;
+  }
+
+  .kamil .feedback-box {
+    width: 458.12px;
+    font-size: 12px;
+  }
+
+  .kamil .feedback-person-image img {
+    width: 110.4px;
+    height: 97.68px;
+  }
+
+  .kamil .feedback-person-name {
+    font-size: 17px;
+  }
+
+  .kamil .feedback-person-name img {
+    width: 18.53px;
+    height: 17.95px;
+  }
+}
+
+@media (min-width: 1280px) {
+  .kamil {
+    margin-left: 121px;
+    margin-right: 121px;
+  }
+
+  .kamil h2 {
+    font-size: 55px;
+    line-height: 55.76px;
+    margin-top: 180px;
+    margin-bottom: 100px;
+  }
+
+  .kamil .what-we-learn-content {
+    font-size: 24px;
+  }
+
+  .kamil .grid-container {
+    grid-template-columns: repeat(3, 399px);
+    grid-template-rows: repeat(3, 328px);
+    column-gap: 37px;
+    row-gap: 41px;
+    margin-bottom: 40px;
+  }
+
+  .kamil .grid-item {
+    border-radius: 30px;
+  }
+
+  .kamil img {
+    width: 399px;
+  }
+
+  .kamil .prog-name {
+    font-size: 30px;
+  }
+
+  .kamil .date-and-moderator {
+    font-size: 25px;
+  }
+
+  .kamil .prog-name,
+  .kamil .date-and-moderator {
+    position: relative;
+    bottom: 22px;
+    left: 22px;
+  }
+
+  .kamil .feedbacks-area {
+    height: 630px;
+  }
+
+  .kamil .feedback-box {
+    width: 791px;
+    font-size: 20px;
+    padding: 35px;
+    padding-top: 20px;
+  }
+
+  .kamil .feedback-person-image img {
+    width: 190px;
+    height: 169px;
+  }
+
+  .kamil .feedback-person-name {
+    font-size: 30px;
+  }
+
+  .kamil .feedback-person-name img {
+    width: 32px;
+    height: 31px;
+  }
+}
